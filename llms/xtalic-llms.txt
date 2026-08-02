@@ -1,0 +1,21 @@
+# Xtalic
+
+> Xtalic Corporation is a materials technology company founded in 2005 out of MIT by professor Chris Schuh and Dr. Alan Lund, headquartered in Marlborough, Massachusetts. Its patented computational materials design platform tailors nanostructured metal alloys — XTRONIC (nickel), LUNA (silver), XTALIUM (aluminum), PALLEX (palladium), XENERGY (soft magnetic), and XEFORM (nickel-gold) — as high-performance, sustainable replacements for traditional metals and precious-metal plating in electronics connectors, EV powertrains and charging, wireless charging, and wearables.
+
+Xtalic publishes no public API or developer surface; this file is generated from the API Evangelist catalog profile.
+
+## Company
+
+- [Website](https://www.xtalic.com/): Company homepage
+- [About](https://www.xtalic.com/about/): Founding story, leadership, and global footprint
+- [Technology](https://www.xtalic.com/technology/): Computational materials design platform
+- [Advanced Materials](https://www.xtalic.com/advanced-materials/): Nanostructured alloy product families
+- [Applications](https://www.xtalic.com/applications/): Electronics, EV, wireless charging, and wearable use cases
+- [Blog](https://www.xtalic.com/blog/): Company blog
+- [News & Press](https://www.xtalic.com/news-and-press/): Announcements
+- [Contact](https://www.xtalic.com/contact/): Sales and support contact
+- [Privacy Policy](https://www.xtalic.com/privacy-policy/): Privacy policy
+
+## Catalog
+
+- [apis.yml](https://raw.githubusercontent.com/api-evangelist/xtalic/refs/heads/main/apis.yml): APIs.json profile for Xtalic in the API Evangelist network

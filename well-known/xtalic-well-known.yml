@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://www.xtalic.com
+host: https://www.xtalic.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 404
+notes: No well-known discovery surface published. Xtalic is a materials-science
+  company (nanostructured metal alloys) with no public API or developer surface;
+  all probes returned 404, which is recorded as valid negative data.

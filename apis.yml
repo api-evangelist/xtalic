@@ -1,8 +1,27 @@
 aid: xtalic
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/xtalic.png
 name: Xtalic
-description: 'Xtalic is a company surfaced as a portfolio company of matrix-partners and added to the
-  API Evangelist network as a stub for enrichment. Sector: frontier. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Xtalic Corporation is a materials technology company founded in 2005
+  out of MIT by professor Chris Schuh and Dr. Alan Lund, headquartered in Marlborough,
+  Massachusetts, with technical support and sales teams in Shanghai, South China,
+  and Singapore. Its patented computational materials design platform tailors
+  nanostructured metal alloys - XTRONIC nickel, LUNA silver, XTALIUM aluminum,
+  PALLEX palladium, XENERGY soft magnetic, and XEFORM nickel-gold - as
+  high-performance, sustainable replacements for traditional metals and
+  precious-metal plating in electronics connectors, EV powertrains and charging
+  systems, wireless charging, and wearables. Xtalic publishes no public API or
+  developer surface.'
 url: https://raw.githubusercontent.com/api-evangelist/xtalic/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Frontier
+- Materials Science
+- Nanotechnology
+- Advanced Materials
+- Alloys
+- Electronics
+- Manufacturing
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,22 @@ maintainers:
 common:
 - type: Website
   url: https://xtalic.com
+- type: Blog
+  url: https://www.xtalic.com/blog/
+- type: Support
+  url: https://www.xtalic.com/contact/
+- type: PrivacyPolicy
+  url: https://www.xtalic.com/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/xtalic-corporation
+- type: Twitter
+  url: https://twitter.com/xtalic
+- type: DomainSecurity
+  url: security/xtalic-domain-security.yml
+- type: LLMsTxt
+  url: llms/xtalic-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
