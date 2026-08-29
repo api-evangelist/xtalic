@@ -34,6 +34,9 @@ description: 'Xtalic Corporation is a materials technology company founded in 20
   systems, wireless charging, and wearables. Xtalic publishes no public API or
   developer surface.'
 url: https://raw.githubusercontent.com/api-evangelist/xtalic/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Xtalic publishes no public API or developer surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
